@@ -1,0 +1,15 @@
+{
+    "$schema": "https://raw.githubusercontent.com/microsoft/vcpkg-tool/main/docs/vcpkg.schema.json",
+    "name": "dx9-hooks",
+    "version": "1.0",
+    "dependencies": [
+        "directxsdk",
+        "minhook"
+    ],
+    "overrides": [
+        { "name": "directxsdk", "version-string": "jun10", "port-version": 6 },
+        { "name": "minhook", "version": "1.3.3", "port-version": 3 }
+    ],
+    "builtin-baseline": "76b55aaf7c45d05fa516a1f6a69f46fb08b1e720"
+}
+
