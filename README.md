@@ -13,4 +13,4 @@ DINPUT8 DLL for hooking GetSystemInfo() to fix the number of processors reported
 
 - [VS2022 Community](https://visualstudio.microsoft.com/vs/community/)
 - [vcpkg](https://github.com/microsoft/vcpkg)
-    - [minhook v1\.3\.3\#3 \(x86\-windows\-static\)](https://github.com/TsudaKageyu/minhook)
+    - [minhook v1\.3\.3\#4 \(x86\-windows\-static\)](https://github.com/TsudaKageyu/minhook)
